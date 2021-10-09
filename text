@@ -1,0 +1,43 @@
+/*----------------color-----------*/
+color: #4D8B55;
+background: #4D8B55;
+
+
+/*----------------font family-----------*/
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap');
+font-family: 'Urbanist', sans-serif;
+
+
+/*----------------icon-----------*/
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-youtube"></i>
+<i class="fab fa-instagram"></i>
+
+
+<i class="fas fa-user"></i>
+<i class="fas fa-shopping-bag"></i>
+<i class="fas fa-search"></i>
+
+
+<i class="fas fa-map-marker-alt"></i>
+
+<i class="fas fa-calendar-alt"></i>
+<i class="fas fa-comment-dots"></i>
+<i class="fas fa-eye"></i>
+
+<i class="fas fa-search-plus"></i>
+
+
+
+
+
+
+
+/*----------------image-----------*/
+<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/80/ffffff/external-coffee-beans-coffee-shop-flatart-icons-outline-flatarticons.png" />
+<img src="https://img.icons8.com/ios/80/ffffff/meat-grinder.png" />
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/80/ffffff/external-cup-christmas-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" />
+<img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/80/ffffff/external-certificate-investment-kiranshastry-lineal-kiranshastry.png" />
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/80/ffffff/external-leaf-spring-vitaliy-gorbachev-fill-vitaly-gorbachev.png" />
+<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/80/ffffff/external-coffee-beans-coffee-shop-flatart-icons-outline-flatarticons.png" />
